@@ -1,2 +1,2 @@
 # git-playground
-[it 연습]
+[Git 연습]
